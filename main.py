@@ -1,1 +1,1 @@
-print('salam sherick')
+print('salam')
